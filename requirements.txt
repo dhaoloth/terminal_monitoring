@@ -1,0 +1,14 @@
+# For CSV export (optional, if using pandas)
+pandas==1.5.3
+
+# For Google Sheets export
+gspread==5.7.0
+google-auth==2.16.0
+google-auth-oauthlib==0.4.6
+google-auth-httplib2==0.1.0
+
+# For API export
+requests==2.28.1
+
+# For PDF report generation
+reportlab==4.0.4
